@@ -1,4 +1,4 @@
-# fashion App
+# Fashion App
 
 # Screenshots
 
